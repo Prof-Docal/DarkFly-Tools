@@ -8,7 +8,7 @@ INFORMATION:
 DarkFly-Tools is a Termux tool that contains 542 tools ready for installation. It easier to use and makes cloning of Termux tools much more easier and faster than using "git clone".
 This is the lastest version of the DarkFly-Tools (V.4.1).
 
-INSTALL:
+INSTALLATION:
 
 Termux:
 

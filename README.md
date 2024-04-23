@@ -30,7 +30,7 @@ $chmod +x install.py
 $python2 install.py
 how to update:
 
-To update this tool, just do the reinstallation, the first way is to install the DarkFly Tools again, and the old file will be deleted and replaced with the new one installed.
+To update this tool, just do the reinstallation, and the old file will be deleted and replaced with the new one installed.
 
 NOTE:
 

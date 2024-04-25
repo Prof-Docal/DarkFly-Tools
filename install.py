@@ -1,4 +1,9 @@
 #!/usr/bin/python
+"""
+Author             : Prof Docal
+contact            : aliesmansaray2004@gmail.com
+Github             : https://github.com/Prof-Docal
+"""
 
 import sys
 import os.path
@@ -123,9 +128,3 @@ def _main_():
 
 if __name__ == '__main__':
     _main_()
-
-"""
-Author             : Prof Docal
-contact            : aliesmansaray2004@gmail.com
-Github             : https://github.com/Prof-Docal
-"""

@@ -120,7 +120,7 @@ def _main_():
             # ==============================================================#
 
             print '' + str(open('.modules/DU.la').read())
-            print '' + str(open('.modules/Du').read())
+            print '' + str(open('.modules/Du.txt').read())
             os.system('python2 .JM.xn && cd')
 
 
